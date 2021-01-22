@@ -5,7 +5,7 @@ toc (table of content) layouts for difrent formats of ebooks.
 
 Mostly done for practising tkinter gui programming, so not many features implemented.
 
-![toceditor with edit menu opened](https://github.com/nikomn/toceditor/blob/master/img/toceditor-img1.png)
+![toceditor with edit menu opened](https://github.com/nikomn/toceditor/blob/main/img/toceditor-img1.png)
 
 ## Usage
 
